@@ -3,6 +3,16 @@ A full-stack voting application that allows users to cast votes on different opt
 
 ---
 
+## 📸 Preview
+
+<img width="1920" height="877" alt="screencapture-localhost-8080-2026-04-17-13_35_07" src="https://github.com/user-attachments/assets/7cf085a9-a8aa-4481-83b5-f60597a13f7e" />
+
+<img width="1920" height="904" alt="screencapture-localhost-8080-register-2026-04-17-13_35_15" src="https://github.com/user-attachments/assets/ec28c031-794a-47b2-80b8-62968c5f70a7" />
+
+<img width="1920" height="877" alt="screencapture-localhost-8080-user-2026-04-17-13_38_34" src="https://github.com/user-attachments/assets/8e5a9726-e976-4315-b51f-8498c8ec0239" />
+
+---
+
 ## 🚀 Features  
 
 - ✅ User-friendly voting interface  
@@ -97,15 +107,9 @@ http://localhost:8080/VotingApp
 - 📱 Mobile-friendly responsive UI
 
 ---
-🤝 Contributing
-- Fork the repo
-- Create a new branch (feature/your-feature)
-- Commit your changes
-- Push to your branch
-- Open a Pull Request
+## 👤 Author
+
+**Vikash Verma**
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
 ---
-
-📄 License
-
-This project is licensed under the MIT License – feel free to use and modify.
