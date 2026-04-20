@@ -46,7 +46,6 @@ VotingApp/
 │── lib/ # Dependencies (MySQL Connector, etc.)
 └── README.md # Project documentation
 
-
 ---
 
 ## ⚙️ Installation & Setup  
